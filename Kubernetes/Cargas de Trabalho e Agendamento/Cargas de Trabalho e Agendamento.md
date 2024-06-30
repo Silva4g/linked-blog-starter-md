@@ -1,0 +1,10 @@
+
+- [[Pods]]
+- [[ReplicaSets]]
+- [[Deployments]]
+- [[StatefulSets]]
+- [[DaemonSets]]
+- [[Jobs e CronJobs]]
+- [[Padrões de Deployments (blue-green, canary)]]
+- [[Configuração de Aplicações (ConfigMaps, Secrets)]]
+- [[Probes (liveness, readiness, startup)]]

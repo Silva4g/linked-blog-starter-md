@@ -1,0 +1,15 @@
+![[1.png]]
+A arquitetura de um cluster Kubernetes é projetada para fornecer uma plataforma robusta, escalável e altamente disponível para a orquestração de contêineres. Essa arquitetura pode ser entendida em dois níveis principais: a infraestrutura física (ou virtual) que compõe o cluster e a organização lógica dos componentes de software que gerenciam o ciclo de vida das aplicações. A seguir, destacamos os aspectos principais dessa arquitetura, focando em sua estrutura geral, sem detalhar os componentes individuais.
+### Arquivos
+-  [[Nodes]]
+- [[Nodes Mestres]]
+- [[Nodes de Trabalho]]
+- [[Design Patterns do Kubernetes]]
+- [[Multi-Tenancy]]
+- [[Federations]]
+- [[Extensões e Personalizações (CRDs, operadores)]]
+- [[Administração do Cluster]]
+- [[Upgrade de Clusters]]
+- [[Gestão de Quotas e Limites de Recursos]]
+- [[Autoscaling (Vertical Pod Autoscaler, Cluster Autoscaler)]]
+- [[Backup e Restauração]]

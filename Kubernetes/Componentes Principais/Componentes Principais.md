@@ -1,0 +1,11 @@
+
+- [[etcd]]
+- [[API Server]]
+- [[Scheduler]]
+- [[Controller Manager]]
+- [[Cloud Controller Manager]]
+- [[kubelet]]
+- [[Proxy]]
+- [[Networking Avançado]]
+- [[Gerenciamento de Certificados]]
+- [[Admission Controllers]]
